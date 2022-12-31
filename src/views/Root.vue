@@ -18,5 +18,7 @@ import Footer from '@/components/layout/footer/index.vue'
 </template>
 
 <style scoped lang="scss">
-
+.module{
+    display: flex;
+}
 </style>
